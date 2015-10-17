@@ -19,9 +19,9 @@
 
 执行时会提示有错误发生：
 
-	$ g++ chap0_undefined_behavior.cpp -o chap0_undefined_behavior.o
-	$ ./chap0_undefined_behavior.o
-	[1]    483 segmentation fault  ./chap0_undefined_behavior.o
+	$ g++ undefined_behavior.cpp -o undefined_behavior.o
+	$ ./undefined_behavior.o
+	[1]    483 segmentation fault  ./undefined_behavior.o
 
 
 
