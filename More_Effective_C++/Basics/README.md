@@ -9,4 +9,9 @@
 
 > 当我们知道自己需要指向某个东西，并且绝对不会改变指向其他东西，或者是当实现一个操作符而其语法需求无法由 pointers 达成，则应该选择 references，其他任何时候，采用 pointers。
 
+不太明白，看代码吧： 
+
+* [pointers.cpp](pointers.cpp)
+* [references.cpp](references.cpp)
+
 
