@@ -4,9 +4,9 @@
 
 # [基础议题](Basics/)
 
-条款 1. 仔细区别 pointers 和 references
-条款 2. 最好使用 C++ 转型操作符
-条款 3. 绝对不要以多态(polymorphically)方式处理数组
-条款 4. 非必要不提供 default constructor 
+* 条款 1. 仔细区别 pointers 和 references
+* 条款 2. 最好使用 C++ 转型操作符
+* 条款 3. 绝对不要以多态(polymorphically)方式处理数组
+* 条款 4. 非必要不提供 default constructor 
 
 
