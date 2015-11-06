@@ -1,10 +1,10 @@
-使用书本：  
-[Effective C++：改善程序与设计的55个具体做法（第3版 中文版）](http://item.jd.com/10393318.html)
+这本书不是一本C++入门书，主要是强调那些常常被淡漠的 C++ 编程方向与观点。其他书籍描述C++ 语言的各个部分，这本书告诉我们如何结合这些成分以便最终获得有效程序。其他书告诉我们如让程序通过编译，这本书教我们如何回避编译器难以显露的问题。
 
-我的系统环境：
+# [让自己习惯 C++](Accustoming_Yourself_to_C++／)
 
-	$ clang --version
-	Apple LLVM version 7.0.0 (clang-700.0.72)
-	Target: x86_64-apple-darwin14.5.0
-	Thread model: posix
+* 条款 1. 视 C++ 为一个语言联邦
+* 条款 2. 尽量以 const, enum, inline 代替 #define
+* 条款 3. 尽可能使用 const
+* 条款 4. 确定对象被使用前已被初始化
+
 
